@@ -26,6 +26,7 @@ src="https://img.shields.io/github/followers/daniel-dunsin?logo=github&style=for
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 
@@ -40,5 +41,4 @@ src="https://img.shields.io/github/followers/daniel-dunsin?logo=github&style=for
 <a href="http://www.github.com/daniel-dunsin"><img src="https://github-readme-stats.vercel.app/api?username=daniel-dunsin&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="daniel-dunsin's GitHub stats" /></a>
 
 <a href="http://www.github.com/daniel-dunsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-dunsin&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
 <a href="https://github.com/daniel-dunsin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-dunsin&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
