@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Daniel Dunsin</h1>
-<h3 align="left">I'm an innovative frontend developer with a strong passion for mobile-friendly, accessible, easy-to-use, user interface, user experience websites.</h3>
+<p align="left">I'm an innovative frontend developer with a strong passion for mobile-friendly, accessible, easy-to-use, user interface, user experience websites.</p>
 <hr />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-dunsin" alt="daniel-dunsin" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **cool projects**
 
-- 👨‍💻 All of my projects are available at [https://ADEJARE-DANIEL.netlify.app](https://ADEJARE-DANIEL.netlify.app)
+- 👨‍💻 All of my projects are available at [https://adejare-daniel.netlify.app](https://adejare-daniel.netlify.app)
 
 - 💬 Ask me about **react and javaScript**
 
