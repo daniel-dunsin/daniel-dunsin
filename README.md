@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Dunsin</h1>
-<h3 align="center">I'm an innovative frontend developer with a strong passion for mobile-friendly, accessible, easy-to-use, user interface, user experience websites.</h3>
+<h1>Hi 👋, I'm Daniel Dunsin</h1>
+<h4>I'm an innovative frontend developer with a strong passion for mobile-friendly, accessible, easy-to-use, user interface, user experience websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-dunsin&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-dunsin" /> </p>
 
