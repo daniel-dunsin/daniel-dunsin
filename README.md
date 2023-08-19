@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **adejaredaniel12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yZ6_DWc0upEDs-dutgYJ9KEERBgKKBxQ/edit?usp=sharing&ouid=115517766891696075375&rtpof=true&sd=true](https://docs.google.com/document/d/1yZ6_DWc0upEDs-dutgYJ9KEERBgKKBxQ/edit?usp=sharing&ouid=115517766891696075375&rtpof=true&sd=true)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B8czfLAtGsryi-jL7Ie_10zWRxiLA8R0/view?usp=drivesdk](https://drive.google.com/file/d/1B8czfLAtGsryi-jL7Ie_10zWRxiLA8R0/view?usp=drivesdk)
 
 <h2 align="left">🤳 Connect with me:</h2>
 <p align="left">
