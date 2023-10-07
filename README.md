@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/l2JHPBjZZPkUCWQSc/giphy.gif" width="80%" align="center" height="300px" />
 <hr />
 <h2> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30" />  About Me: </h2>
-<p>I'm Adejare Daniel. I'm a backend developer with knowledge in building scalable, efficient and secure web applications. 👨‍💻</p>
+<p>I'm Adejare Daniel. I'm a full stack developer with knowledge in building scalable, efficient and secure web applications. 👨‍💻</p>
 
 </a> </p>
 
 - 🌱 I’m currently learning **various backend technologies**
 
-- 👯 I’m looking to work/collaborate on **full stack and backend related projects**
+- 👯 I’m looking to work/collaborate on **all web application projects😌**
 
 - 📫 How to reach me **adejaredaniel12@gmail.com**
 
