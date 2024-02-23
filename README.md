@@ -8,7 +8,7 @@
 
 </a> </p>
 
-- 🌱 I’m currently learning **various backend technologies**
+- 🌱 I’m currently learning **react native**
 
 - 👯 I’m looking to work/collaborate on **all web application projects😌**
 
